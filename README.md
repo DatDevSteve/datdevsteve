@@ -16,7 +16,7 @@ My work spans both **on-device** intelligence (latency-first, privacy-aware) and
 Always eager to exchange knowledge—whether it's debugging an ESP32, discussing BERT implementations, or geeking out about car audio systems. Open to collaborations that push technical boundaries.
 
 ### Reach out
-Feel free to reach me out via [Instagram](https://instagram.com/datdevsteve), [LinkedIn](https://linkedin.com/in/rehaan-t), and (Email)[mailto:rehaan.tamboli26@gmail.com]
+Feel free to reach me out via my listed socials :)
 
 
 ## 🌐 Socials:
