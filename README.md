@@ -29,10 +29,6 @@ Feel free to reach me out via [Instagram](https://instagram.com/datdevsteve), [L
 ![](https://nirzak-streak-stats.vercel.app/?user=DatDevSteve&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DatDevSteve&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=DatDevSteve&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=DatDevSteve&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
